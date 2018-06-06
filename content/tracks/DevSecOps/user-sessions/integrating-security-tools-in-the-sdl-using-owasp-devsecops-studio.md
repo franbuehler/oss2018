@@ -20,6 +20,7 @@ participants :
     - Orid Ahmed
     - Russell Coleman
     - Alex Chapman
+    - Franziska Buehler
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
 ---
 
