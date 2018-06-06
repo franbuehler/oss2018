@@ -16,6 +16,7 @@ categories   : ["OWASP Project"]
 organizers   :
   - Imran Mohammed A
   - Manuel Jeckelmann
+  - Franziska Buehler
 participants :
     - Francois Raynaud
 description  : Working Sessions for Owasp Defect Dojo
